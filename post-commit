@@ -1,0 +1,3 @@
+#!/bin/sh
+curl --user admin:11e96d6340ef90d12c75e442d0484529f3 http://localhost:8082/job/Module3//build?token=123
+echo "jenkins from an external script"
